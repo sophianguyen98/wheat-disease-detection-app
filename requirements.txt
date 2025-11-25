@@ -1,7 +1,0 @@
-streamlit
-tensorflow
-openai
-fpdf
-Pillow
-numpy
-huggingface_hub
