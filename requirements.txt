@@ -1,6 +1,0 @@
-streamlit
-tensorflow
-openai
-fpdf
-Pillow
-numpy
